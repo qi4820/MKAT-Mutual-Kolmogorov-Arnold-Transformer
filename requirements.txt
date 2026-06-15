@@ -1,0 +1,7 @@
+reformer_pytorch==1.4.4
+setuptools==80.9.0
+sympy==1.13.1
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+tqdm==4.67.1
+triton==3.2.0

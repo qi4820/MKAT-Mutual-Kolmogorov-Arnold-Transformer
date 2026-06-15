@@ -1,0 +1,7 @@
+1、直接运行iTransformer的代码：直接用iTransforemr相关的.sh文件就好了。
+
+2、直接运行MKAT代码：直接直接用MKAT_iTransforemr相关的.sh文件就好了。
+
+3、要运行ADD Group KAN的情况：就把iTransformer里面的模型名称去换成：MKAT_iTransformer_only_group_kan
+
+4、要运行ADD ImterComp KAN的话：就把iTransformer里面的模型名称去换成：MKAT_iTransformer_only_modular_kan
