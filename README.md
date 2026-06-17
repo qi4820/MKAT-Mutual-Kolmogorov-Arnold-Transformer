@@ -17,3 +17,16 @@ MKAT leverages the core InterComp KAN and this core-derived implicit coupling wi
 <p align="center">
 <img src="./figures/Overview_of_MKAT.png" alt="" align=center />
 </p>
+
+
+## Usage 
+
+1. Install Pytorch and the necessary dependencies.
+
+```
+pip install -r requirements.txt
+```
+
+1. The datasets can be obtained from
+
+2. Train and evaluate the model. Scripts corresponding to each experiment in the paper are organized under ./scripts/. You can reproduce the results by running the following examples:
