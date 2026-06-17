@@ -38,6 +38,8 @@ bash .\scripts\Main_Result\ECL\MKAT_iTransformer.sh
 
 The same pattern applies to other datasets and models.
 
+> **Note on Hyperparameters:** The learning rates specified in the provided scripts are for reference only and may not correspond to the optimal values or those used to generate the reported results. Please tune the learning rate based on your specific hardware, batch size, and dataset configuration.
+
 ## 🔌 MKAT as a Plugin
 We have distilled the core idea of MKAT into a lightweight, plug-and-play module. If you only want to integrate MKAT into your own models (without reproducing the full benchmark), please follow these steps:
 
